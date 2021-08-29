@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e3c4ce8b26df0a40b62781b1b1e85d6, type: 3}
+  m_Name: WarriorBandit
+  m_EditorClassIdentifier: 
+  Name: WarriorBandit
+  Prefab: {fileID: 8353876668514062215, guid: b81fa88423e84f64f8bd3672d409e102, type: 3}
